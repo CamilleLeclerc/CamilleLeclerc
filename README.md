@@ -10,7 +10,7 @@
 ### Background
 <p align="justify"> Currently post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> in Aix-en-provence with a particular interest in island or island-like ecosystems. The overarching aim of my research is to investigate the impacts of global changes on biodiversity patterns of such systems at a macroecological scale to guide conservation strategies. </p>
 
-*Interests:*<br>
+*Interests:*
 <p align="justify"> macroecology ; global changes ; multiple facets of biodiversity ; vulnerability assessment ; conservation biology ; community ecology ; biogeography </p>
 
 ------  
