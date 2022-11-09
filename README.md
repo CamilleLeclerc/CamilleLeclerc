@@ -6,7 +6,7 @@
 [![ORCID](https://img.shields.io/badge/-ORCID-green.svg?style=flat-square&logo=orcid&logoColor=white&colorB=71DA0E&labelColor=0EDA11)](https://orcid.org/0000-0001-5830-1787)  
 💻 My personal website: https://camilleleclerc.github.io/
 
-------
+------  
 ### Background
 <p align="justify"> 
 Currently post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> in Aix-en-provence with a particular interest in island or island-like ecosystems. The overarching aim of my research is to investigate the impacts of global changes on biodiversity patterns of such systems at a macroecological scale to guide conservation strategies.
@@ -14,7 +14,8 @@ Currently post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recove
 *Interests:*<br>
 macroecology ; global changes ; multiple facets of biodiversity ; vulnerability assessment ; conservation biology ; community ecology ; biogeography
 </p>
-------
+
+------  
 [![My github stats](https://github-readme-stats.vercel.app/api?username=CamilleLeclerc&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleLeclerc&langs_count=4&layout=compact&theme=default)
 
