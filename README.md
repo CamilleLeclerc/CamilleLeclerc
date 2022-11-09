@@ -10,8 +10,7 @@
 ### Background
 <p align="justify"> Currently post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> in Aix-en-provence with a particular interest in island or island-like ecosystems. The overarching aim of my research is to investigate the impacts of global changes on biodiversity patterns of such systems at a macroecological scale to guide conservation strategies. </p>
 
-<p align="justify"> *Interests:*
-macroecology ; global changes ; multiple facets of biodiversity ; vulnerability assessment ; conservation biology ; community ecology ; biogeography </p>
+<p align="justify"> <i>Interests:</i> macroecology ; global changes ; multiple facets of biodiversity ; vulnerability assessment ; conservation biology ; community ecology ; biogeography </p>
 
 ------  
 [![My github stats](https://github-readme-stats.vercel.app/api?username=CamilleLeclerc&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
