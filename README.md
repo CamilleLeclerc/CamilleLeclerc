@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 [![GitHub followers](https://img.shields.io/github/followers/CamilleLeclerc?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2FCamilleLeclerc)
 [![Twitter follow](https://img.shields.io/twitter/follow/_LeclercCamille?label=%20%40_LeclercCamille&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/_LeclercCamille)
 [![Research Gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Camille-Leclerc-5)
@@ -7,13 +7,13 @@
 💻 My personal website: https://camilleleclerc.github.io/
 
 ------
-## Background
-<style> body {text-align: justify} </style> <!-- Justify text. -->
+### Background
+<p align="justify"> 
 Currently post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> in Aix-en-provence with a particular interest in island or island-like ecosystems. The overarching aim of my research is to investigate the impacts of global changes on biodiversity patterns of such systems at a macroecological scale to guide conservation strategies.
 
 *Interests:*<br>
 macroecology ; global changes ; multiple facets of biodiversity ; vulnerability assessment ; conservation biology ; community ecology ; biogeography
-
+</p>
 ------
 [![My github stats](https://github-readme-stats.vercel.app/api?username=CamilleLeclerc&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleLeclerc&langs_count=4&layout=compact&theme=default)
