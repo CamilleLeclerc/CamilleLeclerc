@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm @CamilleLeclerc 
-<p align="justify"> 👩‍💻 I’m currently post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> in Aix-en-provence.  
-👀 I’m interested in island or island-like ecosystems. The overarching aim of my research is to investigate the impacts of global changes on biodiversity patterns of such systems at a macroecological scale to guide conservation strategies.  
-📫 How to reach me: camille.leclerc@inrae.fr  
-💻 My personal website: https://camilleleclerc.github.io/  </p>
+- 👩‍💻 I’m currently post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> in Aix-en-provence.
+- 👀 I’m interested in island or island-like ecosystems. The overarching aim of my research is to investigate the impacts of global changes on biodiversity patterns of such systems at a macroecological scale to guide conservation strategies.
+- 📫 How to reach me: camille.leclerc@inrae.fr
+- 💻 My personal website: https://camilleleclerc.github.io/
 
 [![GitHub followers](https://img.shields.io/github/followers/CamilleLeclerc?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2FCamilleLeclerc)
 [![Twitter follow](https://img.shields.io/twitter/follow/_LeclercCamille?label=%20%40_LeclercCamille&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/_LeclercCamille)
