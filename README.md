@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm @CamilleLeclerc 
-- 👩‍💻 I’m currently post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> in Aix-en-provence.
-- 👀 I’m interested in island or island-like ecosystems. The overarching aim of my research is to investigate the impacts of global changes on biodiversity patterns of such systems at a macroecological scale to guide conservation strategies.
+- 👩‍💻 I’m currently a post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> in Aix-en-provence.
+- 👀 I'm interested in island or island-like ecosystems. The overall goal of my research is to study the impact of global changes on the biodiversity patterns of such systems in order to develop conservation strategies.
 - 📫 How to reach me: camille.leclerc@inrae.fr
 - 💻 My personal website: https://camilleleclerc.github.io/
 
