@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm @CamilleLeclerc 
+### 👋 Hi there, I'm @CamilleLeclerc [she/her]
 - 👩‍💻 I’m currently a post-doctoral researcher at <a href="https://www6.paca.inrae.fr/recover/" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> in Aix-en-provence.
 - 👀 I'm interested in island or island-like ecosystems. The overall goal of my research is to study the impact of global changes on the biodiversity patterns of such systems in order to develop conservation strategies.
 - 📫 How to reach me: camille.leclerc@inrae.fr
