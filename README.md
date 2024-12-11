@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm @CamilleLeclerc [she/her]
-- 👩‍💻 I’m currently a post-doctoral researcher at <a href="https://geolab.uca.fr/" target="_blank" style="color:#3B528B;">CNRS – UMR GEOLAB</a> in Clermont-ferrand.
-- 👀 I'm interested in island or island-like ecosystems. The overall goal of my research is to study the impact of global changes on the biodiversity patterns of such systems in order to develop conservation strategies.
-- 📫 How to reach me: camille.leclerc@uca.fr
+- 👩‍💻 I’m currently a post-doctoral researcher at <a href="https://riverly.inrae.fr/" target="_blank" style="color:#3B528B;">INRAE – RiverLy</a> in Lyon.
+- 👀 I'm interested in exploring biodiversity patterns in the face of global threats, with a particular focus on island and island-like ecosystems.
+- 📫 How to reach me: camille.leclerc@inrae.fr
 - 💻 My personal website: https://camilleleclerc.github.io/
 
 [![GitHub followers](https://img.shields.io/github/followers/CamilleLeclerc?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2FCamilleLeclerc)
