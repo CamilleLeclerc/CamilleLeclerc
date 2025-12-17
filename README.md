@@ -1,8 +1,5 @@
 ### 👋 Hi there, I'm @CamilleLeclerc [she/her]
-- 👩‍💻 I’m currently a post-doctoral researcher at <a href="https://riverly.inrae.fr/" target="_blank" style="color:#3B528B;">INRAE – RiverLy</a> in Lyon.
-- 👀 I'm interested in exploring biodiversity patterns in the face of global threats, with a particular focus on island and island-like ecosystems.
-- 📫 How to reach me: camille.leclerc@inrae.fr
-- 💻 My personal website: https://camilleleclerc.github.io/
+I'm interested in exploring biodiversity patterns in the face of global threats, with a particular focus on island and island-like ecosystems.
 
 [![GitHub followers](https://img.shields.io/github/followers/CamilleLeclerc?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2FCamilleLeclerc)
 [![Twitter follow](https://img.shields.io/twitter/follow/_LeclercCamille?label=%20%40_LeclercCamille&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/_LeclercCamille)
@@ -31,4 +28,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 👩‍💻 I’m currently a post-doctoral researcher at <a href="https://riverly.inrae.fr/" target="_blank" style="color:#3B528B;">INRAE – RiverLy</a> in Lyon.
+- 👀 I'm interested in exploring biodiversity patterns in the face of global threats, with a particular focus on island and island-like ecosystems.
+- 📫 How to reach me: camille.leclerc@inrae.fr
+- 💻 My personal website: https://camilleleclerc.github.io/
+
 -->
