@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm @CamilleLeclerc [she/her]
-I'm interested in exploring biodiversity patterns in the face of global threats, with a particular focus on island and island-like ecosystems.
+## Hi there, I'm @CamilleLeclerc 👋 [she/her]
+I'm an ecologist working at the interface between research and environmental management, with a focus on understanding how biodiversity and ecosystems respond to global change and environmental pressures.
+My research aims to understand the processes shaping ecological communities and their trajectories, and to use this knowledge to inform biodiversity conservation and ecosystem management.
 
 [![GitHub followers](https://img.shields.io/github/followers/CamilleLeclerc?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2FCamilleLeclerc)
 [![Twitter follow](https://img.shields.io/twitter/follow/_LeclercCamille?label=%20%40_LeclercCamille&style=flat-square&labelColor=2E7DEF&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/_LeclercCamille)
