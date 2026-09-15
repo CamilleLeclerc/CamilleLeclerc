@@ -1,5 +1,4 @@
-### 👋 Hi there, I'm @CamilleLeclerc [she/her]
-## Hi there, I'm @CamilleLeclerc 👋 [she/her]
+## 👋 Hi there, I'm @CamilleLeclerc [she/her]
 I'm an ecologist working at the interface between research and environmental management, with a focus on understanding how biodiversity and ecosystems respond to global change and environmental pressures.
 My research aims to understand the processes shaping ecological communities and their trajectories, and to use this knowledge to inform biodiversity conservation and ecosystem management.
 
