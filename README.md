@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm @CamilleLeclerc [she/her]
-I'm an ecologist working at the interface between science and environmental management, with a focus on understanding how biodiversity and ecosystems respond to global change and environmental pressures.
+I'm an ecologist working at the interface between science and environmental management, with a focus on understanding how biodiversity and ecosystems respond to global change and environmental pressures.  
 My work aims to identify the processes shaping ecological communities and their trajectories, and to translate this knowledge into actionable insights for biodiversity conservation and ecosystem management.
 
 [![GitHub followers](https://img.shields.io/github/followers/CamilleLeclerc?label=Follow&style=flat-square&logo=github&logoColor=white&colorB=0C0504)](https://github.com/login?return_to=%2FCamilleLeclerc)
